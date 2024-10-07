@@ -1,0 +1,9 @@
+-- we are creating a virtual environment
+-- python -m venv venv
+-- activate the vitural environment
+-- venv\Scripts\activate - for windows
+-- convert your working directory to local repo git init
+-- git status is to check for the files that aae not moved to staging area and committed
+-- git add. to move it to the staging area
+-- git status to check
+-- commit aare - git commit -m "linear regression V1"
