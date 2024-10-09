@@ -7,3 +7,16 @@
 -- git add. to move it to the staging area
 -- git status to check
 -- commit aare - git commit -m "linear regression V1"
+-- 08/10/2024
+-- Import the libraries
+-- import pandas as pandas
+-- import numpy as numpy
+-- from matplotlib import pyplot as pyplot
+-- import seaborn as sns
+
+-- import pandas as pd
+-- import numpy as np
+-- from matplotlib import pyplot as plt
+-- import seaborn as sns
+-- venv\Scripts\activate
+-- python -m venv venv 
